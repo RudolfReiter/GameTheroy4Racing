@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T10:29:33.493Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.7" etag="Pq1xN2_prVBL1H3OB6gN" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T11:41:27.005Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pWnxOYQq2QuF6RRSuO6e" version="24.0.7" type="github">
   <diagram name="Seite-1" id="RL_Stw6sNkuXo9E1I-Iy">
-    <mxGraphModel>
+    <mxGraphModel dx="1386" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C75X4aPvdywNiZiNjVFC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C75X4aPvdywNiZiNjVFC-1" target="C75X4aPvdywNiZiNjVFC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C75X4aPvdywNiZiNjVFC-1" value="Autonomous Racing Rules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C75X4aPvdywNiZiNjVFC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C75X4aPvdywNiZiNjVFC-3" target="C75X4aPvdywNiZiNjVFC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C75X4aPvdywNiZiNjVFC-3" value="Definition of Game Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C75X4aPvdywNiZiNjVFC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C75X4aPvdywNiZiNjVFC-4" target="C75X4aPvdywNiZiNjVFC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C75X4aPvdywNiZiNjVFC-4" value="Simplifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C75X4aPvdywNiZiNjVFC-7" value="Solution Strategies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="200" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="F1TENTH: https://iros2021.f1tenth.org/rules.html#25-head-to-head-race" link="https://iros2021.f1tenth.org/rules.html#25-head-to-head-race" id="C75X4aPvdywNiZiNjVFC-9">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="330" y="70" width="430" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IAC CES: https://www.indyautonomouschallenge.com/autonomous-challenge-ces-rules" link="https://www.indyautonomouschallenge.com/autonomous-challenge-ces-rules" id="C75X4aPvdywNiZiNjVFC-10">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="330" y="90" width="500" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
